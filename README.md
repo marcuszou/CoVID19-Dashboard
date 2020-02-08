@@ -1,5 +1,5 @@
-# 2019-nCoV-Dashboard
-2019-nCoV Desease Trending with Pyecharts
+# 2019-nCoV Dashboard with Pyecharts
+2019-nCoV Desease Trending with Pyecharts library from Baidu.com
 
 ## 0. Preface
 * Tencent weiste changed it's JSON coding since the beginning of Feb 2020.
