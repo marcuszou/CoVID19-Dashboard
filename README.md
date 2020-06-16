@@ -1,3 +1,8 @@
+# NOTES
+* Obviously **news.qq.com** diverted the data source to somewhere and swung their reporting templates and data structure quite often in the past few weeks, and most of the codes here do not work any more. 
+* Need to wedge out some time pieces to cope with the new changes. It seems that the data source from Hopkins University is way better.
+* Stuck in North Africa, no time and no Internet for such actions yet. Sorry to the forker(s).
+
 # 2019-nCoV Dashboard with Pyecharts
 2019-nCoV Desease Trending with Pyecharts library from Baidu.com
 
@@ -5,6 +10,7 @@
 * Tencent weiste changed it's JSON coding since the beginning of Feb 2020.
 * Dashboard with Baidu's pyecharts library - way easier than ever.
 * Data souce: [Tencent Live Tracking of 2019-nCoV](https://news.qq.com/zt2020/page/feiyan.htm)
+
 
 ## Part 1. Data Entry
 
